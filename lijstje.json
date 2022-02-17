@@ -1,0 +1,39 @@
+{
+	"lijstje": [
+		{
+			"product": "melk",
+			"hoeveelheid": 2.4,
+			"eenheid": "liter"
+		},
+		{
+			"product": "gildekorn",
+			"hoeveelheid": 2,
+			"eenheid": "stuks"
+		},
+		{
+			"product": "cassis",
+			"hoeveelheid": 1,
+			"eenheid": "liter"
+		},
+		{
+			"product": "milde kwark",
+			"hoeveelheid": 500,
+			"eenheid": "gram"
+		},
+		{
+			"product": "mars",
+			"hoeveelheid": 1,
+			"eenheid": "multipack"
+		},
+		{
+			"product": "paprika chips",
+			"hoeveelheid": 1,
+			"eenheid": "zak"
+		},
+		{
+			"product": "eieren",
+			"hoeveelheid": 8,
+			"eenheid": "stuks"
+		}
+	]
+}

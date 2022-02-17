@@ -1,0 +1,13 @@
+{
+	"recept": {
+		"naam": "Oma's taart",
+		"ingredienten": ["80g boter", "4 eieren", "250ml melk", "100g bloem", "4 appels"],
+		"stappenplan": [
+			"Verwarm de oven voor op 200 graden.",
+			"Voeg alle ingredienten in een kom.",
+			"Mix alle ingredienten.",
+			"Vul een taartvorm met het beslag.",
+			"Bak de taart in 25 minuten."
+		]
+	}
+}

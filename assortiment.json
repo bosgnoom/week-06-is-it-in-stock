@@ -1,0 +1,270 @@
+{
+	"producten": [
+		{
+			"product": "kattenbrokken (2kg)",
+			"schap": "non-food",
+			"gewicht": 2,
+			"eenheid": "kg",
+			"prijs": 4.35
+		},
+		{
+			"product": "kattenbrokken (5kg)",
+			"schap": "non-food",
+			"gewicht": 5,
+			"eenheid": "kg",
+			"prijs": 6.46
+		},
+		{
+			"product": "a4-papier",
+			"schap": "non-food",
+			"gewicht": 3,
+			"eenheid": "kg",
+			"prijs": 2.99
+		},
+		{
+			"product": "nietmachine",
+			"schap": "non-food",
+			"gewicht": 100,
+			"eenheid": "gram",
+			"prijs": 5.66
+		},
+		{
+			"product": "gildekorn",
+			"schap": "brood",
+			"gewicht": 1,
+			"eenheid": "brood",
+			"prijs": 1.87
+		},
+		{
+			"product": "zeeuws volkoren",
+			"schap": "brood",
+			"gewicht": 1,
+			"eenheid": "brood",
+			"prijs": 1.35
+		},
+		{
+			"product": "krentenbrood",
+			"schap": "brood",
+			"gewicht": 1,
+			"eenheid": "brood",
+			"prijs": 2.24
+		},
+		{
+			"product": "pizza kaas",
+			"schap": "diepvries",
+			"gewicht": 350,
+			"eenheid": "gram",
+			"prijs": 2.99
+		},
+		{
+			"product": "pizza salami",
+			"schap": "diepvries",
+			"gewicht": 350,
+			"eenheid": "gram",
+			"prijs": 3.1
+		},
+		{
+			"product": "boter ongezouten",
+			"schap": "koelschap",
+			"gewicht": 200,
+			"eenheid": "gram",
+			"prijs": 1.46
+		},
+		{
+			"product": "boter gezouten",
+			"schap": "koelschap",
+			"gewicht": 200,
+			"eenheid": "gram",
+			"prijs": 1.49
+		},
+		{
+			"product": "melk (literpak)",
+			"schap": "koelschap",
+			"gewicht": 1,
+			"eenheid": "liter",
+			"prijs": 1.19
+		},
+		{
+			"product": "melk (groot)",
+			"schap": "koelschap",
+			"gewicht": 2.4,
+			"eenheid": "liter",
+			"prijs": 2.24
+		},
+		{
+			"product": "eieren (6-pak)",
+			"schap": "bakproducten",
+			"gewicht": 6,
+			"eenheid": "stuks",
+			"prijs": 2.14
+		},
+		{
+			"product": "bloem",
+			"schap": "bakproducten",
+			"gewicht": 1,
+			"eenheid": "kg",
+			"prijs": 0.67
+		},
+		{
+			"product": "eieren (dozijn)",
+			"schap": "bakproducten",
+			"gewicht": 12,
+			"eenheid": "stuks",
+			"prijs": 3.68
+		},
+		{
+			"product": "rozijnen",
+			"schap": "bakproducten",
+			"gewicht": 100,
+			"eenheid": "gram",
+			"prijs": 0.79
+		},
+		{
+			"product": "courgette",
+			"schap": "groente",
+			"gewicht": 1,
+			"eenheid": "stuk",
+			"prijs": 0.89
+		},
+		{
+			"product": "prei",
+			"schap": "groente",
+			"gewicht": 1,
+			"eenheid": "stuk",
+			"prijs": 0.56
+		},
+		{
+			"product": "paprika (stoplicht)",
+			"schap": "groente",
+			"gewicht": 3,
+			"eenheid": "stuks",
+			"prijs": 1.69
+		},
+		{
+			"product": "paprika (los)",
+			"schap": "groente",
+			"gewicht": 1,
+			"eenheid": "stuk",
+			"prijs": 0.79
+		},
+		{
+			"product": "ham",
+			"schap": "koelschap",
+			"gewicht": 100,
+			"eenheid": "gram",
+			"prijs": 2.45
+		},
+		{
+			"product": "milde kwark",
+			"schap": "koelschap",
+			"gewicht": 500,
+			"eenheid": "gram",
+			"prijs": 1.19
+		},
+		{
+			"product": "bacon",
+			"schap": "koelschap",
+			"gewicht": 100,
+			"eenheid": "gram",
+			"prijs": 2.43
+		},
+		{
+			"product": "kaas",
+			"schap": "koelschap",
+			"gewicht": 100,
+			"eenheid": "gram",
+			"prijs": 3.41
+		},
+		{
+			"product": "banaan",
+			"schap": "groente",
+			"gewicht": 1,
+			"eenheid": "tros",
+			"prijs": 2.54
+		},
+		{
+			"product": "kiwi",
+			"schap": "groente",
+			"gewicht": 1,
+			"eenheid": "stuk",
+			"prijs": 1.1
+		},
+		{
+			"product": "appel",
+			"schap": "groente",
+			"gewicht": 1,
+			"eenheid": "kg",
+			"prijs": 2.19
+		},
+		{
+			"product": "chips (naturel)",
+			"schap": "snacks",
+			"gewicht": 200,
+			"eenheid": "gram",
+			"prijs": 1.09
+		},
+		{
+			"product": "chips (paprika)",
+			"schap": "snacks",
+			"gewicht": 200,
+			"eenheid": "gram",
+			"prijs": 1.14
+		},
+		{
+			"product": "mars",
+			"schap": "snacks",
+			"gewicht": 1,
+			"eenheid": "multipack",
+			"prijs": 2.9
+		},
+		{
+			"product": "cola",
+			"schap": "dranken",
+			"gewicht": 1,
+			"eenheid": "liter",
+			"prijs": 1.52
+		},
+		{
+			"product": "limonade (framboos",
+			"schap": "dranken",
+			"gewicht": 1,
+			"eenheid": "liter",
+			"prijs": 2.87
+		},
+		{
+			"product": "fanta",
+			"schap": "dranken",
+			"gewicht": 1,
+			"eenheid": "liter",
+			"prijs": 1.48
+		},
+		{
+			"product": "cassis",
+			"schap": "dranken",
+			"gewicht": 1,
+			"eenheid": "liter",
+			"prijs": 1.37
+		},
+		{
+			"product": "yoghurt",
+			"schap": "koelschap",
+			"gewicht": 1,
+			"eenheid": "liter",
+			"prijs": 1.23
+		},
+		{
+			"product": "vla",
+			"schap": "koelschap",
+			"gewicht": 1,
+			"eenheid": "liter",
+			"prijs": 1.57
+		},
+		{
+			"product": "karnemelk",
+			"schap": "koelschap",
+			"gewicht": 1,
+			"eenheid": "liter",
+			"prijs": 1.32
+		}
+	]
+}
